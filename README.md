@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Kanika and I'm a Numbers-driven analyst turning data into insights through forecasting, dashboards, data warehousing, financial models.</p>
+<p align="left">My name is Kanika and I'm a numbers-driven analyst turning data into insights through forecasting, dashboards, data warehousing, financial models.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">1. Data & Analytics Tools<br><br>Excel 📈<br><br>Power BI 📊<br><br>Tableau 📉<br><br><br>2. Cloud & Dev Tools<br><br>Git 🔧<br><br>GitHub 🐙<br><br>VS Code 🖥️<br><br><br>3. Finance & Modeling<br><br>Financial Modeling 💰<br><br>Forecasting 📆<br><br>DCF / Valuation 📊<br><br><br>4. General / Misc<br><br>Data Analysis 📊<br><br>Dashboarding 📈<br><br>Problem Solving 🧠</p>
+<p align="left">1. Data & Analytics Tools : Excel 📈 | Power BI 📊 | Tableau 📉<br>2. Cloud & Dev Tools: Git 🔧 | GitHub 🐙 | VS Code 🖥️<br>3. Finance & Modeling: Financial Modeling 💰 |Forecasting 📆 | DCF / Valuation 📊<br>4. General / Misc: Data Analysis 📊 | Dashboarding 📈 |Problem Solving 🧠</p>
 
 ###
 
