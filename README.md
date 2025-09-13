@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Kanika and I'm a numbers-driven analyst turning data into insights through forecasting, dashboards, data warehousing, financial models.</p>
+<p align="left">My name is Kanika and I'm a Numbers-driven analyst turning data into insights through forecasting, dashboards, data warehousing, financial models.</p>
 
 ###
 
